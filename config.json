@@ -1,7 +1,7 @@
 {
 	"site_config": {
-		"host": "0.0.0.0",
-		"port": 80,
+		"host": "chatgpt.mikeintoshsys.com",
+		"port": 7777,
 		"debug": false
 	},
 	"url_prefix": ""
