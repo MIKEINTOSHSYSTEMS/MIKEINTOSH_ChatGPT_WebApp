@@ -6,4 +6,4 @@ import sys
 sys.path.insert(0, os.path.dirname(__file__))
 
 wsgi = imp.load_source('wsgi', 'run.py')
-application = wsgi.application
+application = wsgi.chatgpt.mikeintoshsys.com
